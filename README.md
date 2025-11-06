@@ -1,5 +1,5 @@
 
-# CP3 - Mobile Application Development
+# CP6 - Mobile Application Development
 
 ## Integrante
 - **Mateus Pierro - RM555125**
